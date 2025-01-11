@@ -1,14 +1,20 @@
 {
   "name": "pytanka",
   "version": "0.1.0",
+  "homepage": "https://matbujnowicz.github.io/pytanka",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.3.1",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "web-vitals": "^4.2.4"
   }
 }

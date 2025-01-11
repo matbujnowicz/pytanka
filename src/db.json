@@ -1,0 +1,992 @@
+[
+    {
+        "question": "Pacjent przebywajacy w szpitalu poprosit opiekuna medyeznego o umozliwienie kontaktu z duchownym. Które z zachowan opiekuna naruszyto prawa pacjenta?",
+        "answers": {
+            "a": "Opiekun medyczny zapytal, czy pacjent potrzebuje numeru telefonu do duchownego.",
+            "b": "Opiekun medyczny zapytal, czy ma zadzwonié do duchownego i przekazac prosbe pacjenta.",
+            "c": "Opiekun medyczny powiedzial, ze sam nie moze umozliwit kontaktu z duchownym i zapyta rodzine pacjenta o zgode.",
+            "d": "Opiekun medyczny powiedzial, ze skontaktuje sie z duchownym w najblizszym mozliwym terminie."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Opiekun zauwazyt, ze podopieczny ma trudnosci przy wstawaniu z lózka i chodzeniu po schodach. Pojawity sie zaburzenia rownowagi, drzenie spoczynkowe lewej korczyny górnej i problem z rozpoczeciem ruchu. Objawy te moga wskazywaé na",
+        "answers": {
+            "a": "chorobe Alzheimera.",
+            "b": "dystrofie miesniowa.",
+            "c": "chorobe Parkinsona.",
+            "d": "zwyrodnienie stawów."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W przypadku pojawienia sie na skórze pacjenta unieruchomionego w tózku zaczerwienienia w okolicy kretarza wiekszego, opiekun medyczny powinien zgodnie z procedura wykonaé zmiane pozycji ciata pacjenta oraz",
+        "answers": {
+            "a": "zalozyé okfad zimny z Altacetu.",
+            "b": "zalozyé oktad pod ceratka ze spirytusem.",
+            "c": "zastosowac materac przeciwodlezynowy.",
+            "d": "zastosowac kótka przeciwodlezynowe pod piety."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "50-letniej pacjentce przyjetej do szpitala lekarz zlecit badanie glikemii popositkowej. Opiekun powinien poinformowaé pacjentke, ze badanie bedzie mozna wykonac, jezeli od ostatniego positku",
+        "answers": {
+            "a": "mina 3 godziny.",
+            "b": "mina 2 godziny.",
+            "c": "minie 1 godzina.",
+            "d": "mina 4 godziny."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Wözek zabiogowy po wykonáné) toalecio cat pacjenta opiekun medtye /reg prreinien",
+        "answers": {
+            "a": "zdezynfekowaé frodklem do derynfakejl powterzehnt I sprzatu",
+            "b": "zderynfekowad roztworem Srodka do derynfekell narmadh",
+            "c": "umyc woda z detergentem",
+            "d": "umyc pod bletaca woda."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Podstawowa skala kwalifikujaca pacjenta do opiek, diugeterminiowej jest siata",
+        "answers": {
+            "a": "Norton",
+            "b": "Katza",
+            "c": "Lawtona",
+            "d": "Barthel"
+        },
+        "correct": "d"
+    },
+    {
+        "question": "U 78-letniej pacjentki, która uskarza sie na wystepowanie zaparé, wzdeé i dusznosci oraz sygnalizuje lek o zycie, w pierwszej kolejnosci nalezy zaspokoié potrzeby:",
+        "answers": {
+            "a": "odzywiania, ruchui nawodnienia.",
+            "b": "nawodnienia, oddychania i bezpieczenstwa.",
+            "c": "wydalania, odzywiania i ruchu.",
+            "d": "wydalania, oddychania i bezpieczenstwa."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Na oddziale wewnetrznym przebywa pacjent z zaburzeniami polykania, karmiony dieta przemystowa przez zglebnik zotadkowy zatozony przez nos. Która grupa problemów wynikajaca z powiktan leczenia dieterycznego moze wystapié u tego pacjenta?",
+        "answers": {
+            "a": "Biegunki lub zaparcia, nudnosci, wymioty, nadmierne zaleganie tresci w zoladku.",
+            "b": "Biegunki lub zaparcia, goraczka, kaszel, wzrost cisnienia tetniczego krwi.",
+            "c": "Nudnosci, wymioty, goraczka, puste odbijania, podwyzszony poziom cholesterolu.",
+            "d": "Zaparcia, dreszcze, spadek cisnienia tetniczego krwi, nadmierne zaleganie tresci w zotadku."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Przed zastosowaniem masci leczniczej na zmiany skórne pleców pacjenta opiekun medyczny w pierwszej kolejnosci powinien",
+        "answers": {
+            "a": "umyé i osuszyc miejsca natozenia leku.",
+            "b": "umyé i zdezynfekowaé miejsca natozenia leku.",
+            "c": "zdezynfekowaé i nawilzyé miejsca natozenia leku.",
+            "d": "zdezynfekowaé i osuszyé miejsca natozenia leku."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Pacjentke samodzielna w wykonywaniu czynnosci samoobslugowych, u ktorej wystepuja nawracajace zakazenia ukladu moczowego spowodowane zaniedbaniami higieny krocza, nalezy pouczyé o koniecznosci codziennej zmiany bielizny osobistej oraz mycia krocza",
+        "answers": {
+            "a": "w kierunku od spojenia tonowego do odbytu i stosowania Srodków o pH 7,5.",
+            "b": "w kierunku od odbytu do spojenia tonowego i stosowania Srodków o pH 7,5.",
+            "c": "w kierunku od odbytu do spojenia lonowego I stosowania Srodków o pH 5,5.",
+            "d": "w kierunku od spojenia tonowego do odbytu | stosowania Srodków o pH 5,5."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Wysoka temperatura z dreszczami, tachykardia, przyspieszenie oddechu, spadek cisnienia tetniczego krwi sa pierwszymi objawami wstrzasu",
+        "answers": {
+            "a": "anafilaktycznego.",
+            "b": "septycznego.",
+            "c": "kardiogennego.",
+            "d": "hipowolemicznego."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjentke samodzielna w wykonywaniu czynnosci samoobslugowych, u której wystepuja nawracajace zakazenia ukladu moczowego spowodowane zaniedbaniami higieny krocza, nalezy pouczyé o koniecznosci codziennej zmiany bielizny osobistej oraz mycia krocza",
+        "answers": {
+            "a": "w kierunku od spojenia lonowego do odbytu i stosowania Srodków o pH 7,5.",
+            "b": "w kierunku od odbytu do spojenia lonowego i stosowania Srodków o pH 7,5.",
+            "c": "w kierunku od odbytu do spojenia lonowego i stosowania Srodków o pH 5,5.",
+            "d": "w kierunku od spojenia lonowego do odbytu i stosowania Srodków o pH 5,5."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Do którego z wymienionych zabiegów opiekun medyczny bedacy wlascicielem firmy Swiadczacej uslugi opiekuncze w srodowisku domowym moze skierowaé zatrudnionych w niej opiekunów medycznych?",
+        "answers": {
+            "a": "Do pobrania krwi zylnej.",
+            "b": "Do zmiany opatrunku na przetoce po wszczepieniu endoprotezy.",
+            "c": "Do pobrania wymazu z pochwy pacjentki.",
+            "d": "Do wykonania iniekcji domiesniowej."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Która czynnosé jest zgodna z algorytmem karmienia pacjenta przez zgtebnik zoladkowy?",
+        "answers": {
+            "a": "Wykonanie toalety jamy ustnej pacjenta po kazdym karmieniu.",
+            "b": "Podanie pacjentowi 100 ml pokarmu strzykawka w czasie krótszym niz 5 minut.",
+            "c": "Ulozenie pacjenta po karmieniu w pozycji plaskiej na plecach.",
+            "d": "Przepukanie zgiebnika przed i po karmieniu pacjenta."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Pacjentce lezacej, niesamodzielnej, zglaszajacej trudnosci w oddaniu stolca, opiekun medyczny na zlecenie pielegniarki ma podaé doodbytniczo czopek glicerynowy. Po uzyskaniu zgody pacjentki opiekun medyczny powinien ulozyé ja w pozycji na boku z kolanami przyciagnietymi do klatki piersiowej, a nastepnie",
+        "answers": {
+            "a": "wprowadzié czopek zwezonym koncem do odbytu na glebokosc 1-2 cm, zasugerowaé pacjentce powstrzymanie sie od defekacji przez najblizsze 40-50 minut.",
+            "b": "wprowadzié czopek szerszym koncem do odbytu na glebokost 1-2 cm, zasugerowac pacjentce powstrzymanie sie od defekacji przez najblizsze 20-30 minut:",
+            "c": "wprowadzic czopek zwezonym korcem do odbytu na glebokost 3-4 cm, zasugerowaé pacjentce powstrzymanie sie od defekacji przez najblizsze 20-30 minut.",
+            "d": "wprowadzic czopek szerszym koncem do odbytu na glebokost 3-4 cm, zasugerowac pacjentce powstrzymanie sie od defekacji przez najblizsze 40-50 minut."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Którego sprzetu nie nalezy stosowac podczas wykonywania gimnastyki oddechowej u pacjenta po operacji przepukliny pachwinowej?",
+        "answers": {
+            "a": "Butelki z woda i drenami.",
+            "b": "Aparatu z piteczka styropianowa.",
+            "c": "Pileczki pingpongowej.",
+            "d": "Nienadmuchanego balonu."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Pacjent przebywajacy druga dobe na oddziale neurologicznym z powodu udaru mózgu, z niedowladem polowiczym lewostronnym, powinien by ukladany w tózku",
+        "answers": {
+            "a": "wylacznie na boku prawym z koniczyna górna lewa utozona pod poduszka.",
+            "b": "na prawym lub lewym boku, z glowa uniesiona miedzy 15 a 30 stopni.",
+            "c": "na plecach, z glowa uniesiona powyzej 45 stopni.",
+            "d": "wytacznie na boku lewym z konczyna górna lewa utozona wzdluz tutowia."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Do którego z wymienionych zabiegów opiekun medyczny bedacy wlascicielem firmy swiadczacej uslugi opiekuncze w srodowisku domowym moze skierowac zatrudnionych w niej opiekunów medycznych?",
+        "answers": {
+            "a": "Do wykonania iniekcji domiesniowej.",
+            "b": "Do podania heparyny drobnoczasteczkowej.",
+            "c": "Do zmiany opatrunku na owrzodzeniu podudzi.",
+            "d": "Do zmiany wewnetrznego cewnika moczowego."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "85-letnia pacjentka, w trakcie przyjecia na oddziat wewnetrzny jest przestraszona, placze i chce wracac do domu. Jak powinien w tej sytuacji zachowaé sie opiekun medyczny?",
+        "answers": {
+            "a": "Poinformowac pacjentke o planowanych badaniach diagnostycznych.",
+            "b": "Poswiecié pacjentce czas i zapewnié o stalej oplece personelu.",
+            "c": "Poinformowac pacjentke o planowanych metodach leczenia.",
+            "d": "Wyjasnié pacjentce cel pobytu w szpitalu i okreslié jego dlugosc."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Podopieczny przebywajacy w domu choruje na chorobe Parkinsona. Opiekun medyczny zaobserwowal u niego wystapienie posuwistego chodu. W celu bezpiecznego przemieszezania sie podopiecznego po mieszkaniu opiekun medyczny powinien zaproponowac mu korzystanie",
+        "answers": {
+            "a": "z kul pachowych.",
+            "b": "z balkonika.",
+            "c": "z laski.",
+            "d": "z kul lokciowych."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjent ma zlecone badanie morfologii z rozmazem, lipidogram i INR. Opiekun medyczny pobierajac krew metoda prózniowa powinien kolejno napeinié probówki:",
+        "answers": {
+            "a": "z EDTA K2 (kolor fioletowy), z dodatkiem cytrynianu sodu (kolor niebieski), z aktywatorem krzepniecia (kolor czerwony):",
+            "b": "z dodatkiem cytrynianu sodu (kolor niebieski), z EDTA K2 (kolor fioletowy), z aktywatorem krzepniecia (kolor czerwony).",
+            "c": "z dodatkiem cytrynianu sodu (kolor niebieski), z aktywatorem krzepniecia (kolor czerwony), z EDTA K2 (kolor fioletowy).",
+            "d": "z EDTA K2 (kolor fioletowy), z aktywatorem krzepniecia (kolor czerwony), z dodatkiem cytrynianu sodu (kolor niebieski)."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Na oddziale chirurgicznym przebywa pacjent w drugiej dobie po zabiegu operacyjnym z powodu usuniecia wyrostka robaczkowego metoda klasyczna. Opiekunowi medycznemu zlecono wykonanie opatrunku na ranie u tego pacjenta. Jaki blad popelnil opiekun medyczny?",
+        "answers": {
+            "a": "W nieprawidlowy sposób przemyl rane.",
+            "b": "Zastosowal niewlasciwe narzedzia do zmiany opatrunku.",
+            "c": "Uzyt niewlasciwego materialu do zabezpieczenia rany.",
+            "d": "W niewlasciwym momencie zmienil rekawiczki."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Podopiecznemu, u którego rozpoznano zaparcia nawykowe z powodu atonii jelit, zalecono stosowanie diety bogatoresztkowej. Ktory zestaw produktow spozywczych nalezy zalecic podopiecznemu?",
+        "answers": {
+            "a": "Pieczywo mieszane, mleko, jablka, tluszcze zwierzece, fasole.",
+            "b": "Pieczywo razowe, jogurty, suszone jagody, tluszcze zwierzece, groch.",
+            "c": "Pieczywo pszenne, mleko, bób, tluszcze roslinne, pomidory.",
+            "d": "Pieczywo razowe, jogurty, suszone sliwki, tluszcze roslinne, pomidory."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Której wskazówki powinien udzielic opiekun medyczny podopiecznej z przewlekla niewydolnoscia zylna konczyn dolnych?",
+        "answers": {
+            "a": "Rano, po wstaniu z lózka, wskazane jest bandazowanie konczyn dolnych.",
+            "b": "Rano, przed wstaniem z lózka, zalecane jest zakladanie ponczoch przeciwzakrzepowych.",
+            "c": "Podczas siedzenia wskazane jest zakladanie nogi na noge.",
+            "d": "Nalezy jak najczesciej przyjmowac pozycje stojaca."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Prowadzac tlenoterapie bierna przez 15 godzin na dobe u pacjenta z niewydolnoscia oddechowa, w celu unikniecia nadmiernego natlenienia, nalezy po 6 godzinach tlenoterapii zastosowac przerwe na czas",
+        "answers": {
+            "a": "45-60 minut.",
+            "b": "15-30 minut.",
+            "c": "6-10 minut.",
+            "d": "1-5 minut."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "W celu ulatwienia pacjentowi adaptacji do warunkow panujacych w szpitalu, opiekun powinien przede wszystkim",
+        "answers": {
+            "a": "wskazac pacjentowi toalete i zapoznac go z regulaminem szpitala.",
+            "b": "wskazac pacjentowi lózko i zapoznac go z topografia oddzialu.",
+            "c": "wskazac pacjentowi lózko i zapoznac go z planem leczenia.",
+            "d": "wskazac pacjentowi sale i zapoznac go z lekarzem."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Na oddziale urazowym przebywa pacjent unieruchomiony w tózku z powodu ztamania miednicy. Z której czynnosci powinien zrezygnowaé opiekun medyczny przy slaniu tózka tego pacjenta?",
+        "answers": {
+            "a": "Z rozmowy z pacjentem.",
+            "b": "Z naciagniecia podkladu plóciennego.",
+            "c": "Z obracania pacjenta na boki.",
+            "d": "Z naciagniecia przescieradta."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W jakich warunkach opiekun medyczny powinien przechowywac opakowanie z piecioma wkladami insuliny?",
+        "answers": {
+            "a": "W szafie lekowej, w temperaturze 14°C.",
+            "b": "W szafie lekowej, w temperaturze 21°C.",
+            "c": "W lodówce, w temperaturze 1°C",
+            "d": "W lodówce, w temperaturze 5°C."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Skala Lawtona stuzy do oceny",
+        "answers": {
+            "a": "zdolnosci utrzymania higieny osobistej.",
+            "b": "zlozonych czynnosci zycia codziennego.",
+            "c": "ryzyka upadku.",
+            "d": "zdolnosci odczuwania bodzców."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Z jaka czestotliwoscia nalezy oceniaé i dokumentowaé zachowanie pacjenta, wobec którego zastosowano przymus bezposredni?",
+        "answers": {
+            "a": "Nie rzadziej niz co 15 minut, równiez w czasie snu pacjenta.",
+            "b": "Co 30 minut, a w czasie snu pacjenta co 1 godzine.",
+            "c": "Co 30 minut, a w czasie snu pacjenta co 2 godziny.",
+            "d": "Nie rzadziej niz co 15 minut wytaczajac czas snu pacjenta."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Opiekun medyczny powinien wykorzystac dysk obrotowy miedzy innymi do",
+        "answers": {
+            "a": "przemieszczania pacjenta z tózka na wózek inwalidzki.",
+            "b": "ochrony pacjenta przed upadkiem podczas kapieli pod natryskiem.",
+            "c": "usprawniania chodu pacjenta z przykurezami.",
+            "d": "przemieszzania pacjenta w obrebie tózka."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "medyczny podezas komunikowanla sie z podopiecznym po udarze niedokrwiennym mózgu, u którego wystepuje afazja ruchowa, nie powinien",
+        "answers": {
+            "a": "uzywac krötkich zdan.",
+            "b": "ponaglad podoplecznego w trakcie wypowiedzi.",
+            "c": "wykorzystywaé komunikacji niewerbalnej.",
+            "d": "konstruowac pytan tak, aby umozliwialy odpowiedz typu tak lub nie."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "W celu sprawazenia polozenia zglebnika w zotadku, nalezy przytozyé stetoskop w okolice nadbrzusza i wprowadzic",
+        "answers": {
+            "a": "5 do 20 mililitrów wody.",
+            "b": "30 do 40 mililitrów wody.",
+            "c": "5 do 20 mililitrów powietrza.",
+            "d": "30 do 40 mililitrów powietrza."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Najstabiej dziatajacym, a jednoczesnie przy prawidlowym stosowaniu najbezpieczniejszym lekiem przeciwbólowym dostepnym bez recepty jest",
+        "answers": {
+            "a": "Nimesil.",
+            "b": "Metamizol.",
+            "c": "Paracetamol.",
+            "d": "Nurofen."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W profilaktyce wystapienia odparzen u pacjenta opiekun medyczny bezposrednio po umyciu jego ciala powinien dokladnie",
+        "answers": {
+            "a": "przecierac spirytusem miejsca narazone na odparzenia.",
+            "b": "smarowaé oliwka miejsca narazone na odparzenia.",
+            "c": "masowaé stykajace sie powierzchnie i fatdy skóry.",
+            "d": "osuszac stykajace sie powierzchnie i faidy skóry."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Pacjentka z reumatoidalnym zapaleniem stawów i zaburzeniami pamieci krótkotrwatej zostata przyjeta na oddzial rehabilitacji. W celu udzielenia pomocy pacjentce w procesie adaptacji opiekun medyczny powinien w pierwszej kolejnosci",
+        "answers": {
+            "a": "wyznaczyé jej godziny poszczególnych zabiegów rehabilitacyjnych i zapisaé je na kartce.",
+            "b": "zapoznad ja z topografia oddzialu, zapisaé godzinowy rozktad dnia.",
+            "c": "przedstawié jej pacjentów na oddziale, zapisac ich imiona.",
+            "d": "zapozna ja z calym personelem placowki i zapisac na kartce nazwisko lekarza prowadzacego."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Do zabiegow przeciwzapalnych cieplych i suchych nie nalezy.",
+        "answers": {
+            "a": "oklad rozgrzewajacy (cieply).",
+            "b": "kapiel sloneczna.",
+            "c": "nagrzewanie goracym powietrzem.",
+            "d": "nagrzewanie lampa Sollux."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Ile czasu, zgodnie z wytycznymi Polskiej Rady Resuscytacji, nalezy poswiecic na sprawdzenie, czy u osoby nieprzytomnej w normotermii wystepuje prawidlowy oddech?",
+        "answers": {
+            "a": "Okolo 25 sekund.",
+            "b": "Okolo 15 sekund.",
+            "c": "Okolo 20 sekund.",
+            "d": "Okolo 10 sekund."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "W Polsce przy udzielaniu swiadczen z zakresu opieki zdrowotnej obowiazuje zasada solidaryzmu spolecznego, ktora oznacza ponoszenie kosztow swiadczen zdrowotnych",
+        "answers": {
+            "a": "przez ogol ubezpieczonych, skladka ma charakter obowiazkowy.",
+            "b": "wylacznie przez aktywnych zawodowo, a skladka ma charakter dobrowolny.",
+            "c": "wylacznie przez aktywnych zawodowo, skladka ma charakter obowiazkowy.",
+            "d": "przez ogol ubezpieczonych, a skladka ma charakter dobrowolny."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Opiekun medyczny pomagajac osobie chorej i niesamodzielnej w wykonaniu inhalacji z zastosowaniem maski twarzowej powinien dopilnowac, aby",
+        "answers": {
+            "a": "sprezarka elektryczna byla ustawiona w odleglosci okolo 1 m od chorego, maska twarzowa szczelnie obejmowala nos i usta chorego, a czas trwania zabiegu nie przekraczal 5 minut.",
+            "b": "sprezarka elektryczna byla ustawiona w odleglosci okolo 0,5 m od chorego, maska twarzowa szczelnie obejmowala usta chorego, a czas trwania zabiegu nie przekraczal 5 minut.",
+            "c": "sprezarka elektryczna byla ustawiona w odleglosci okolo 0,5 m od chorego, maska twarzowa szczelnie obejmowala nos i usta chorego, a czas trwania zabiegu nie przekraczal 20 minut.",
+            "d": "sprezarka elektryczna byla ustawiona w odleglosci okolo 1 m od chorego, maska twarzowa szczelnie obejmowala nos chorego, a czas trwania zabiegu nie przekraczal 20 minut."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Mechanizm insulinoopornosci wystepujacej w cukrzycy polega na",
+        "answers": {
+            "a": "zwiekszonej wrazilwosci tkanek na insuline.",
+            "b": "zmnlejszonej wrazliwosci tkanek na insuline.",
+            "c": "zwiekszonym wydzielaniu insuliny przez komórki beta wysp trzustkowych.",
+            "d": "zmniejszonym wydzielaniu insuliny przez komórki beta wysp trzustkowych."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Opiekun medyczny, w celu umozliwienia wypróznienia pacjentce z zalozonym wyciagiem bezposrednim na konczynie dolnej, powinien",
+        "answers": {
+            "a": "podaé jej basen sanitarny do lózka.",
+            "b": "zawiezé ja do lazienki na wózku lezacym.",
+            "c": "zawiezé ja do lazienki na wózku inwalidzkim.",
+            "d": "posadzié ja na krzesle sanitarnym przy lózku."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "W warunkach szpitalnych miske nerkowata wielorazowego uzytku bezposrednio po opróznieniu z zawartosci opiekun medyczny powinien",
+        "answers": {
+            "a": "wytrzeé do sucha.",
+            "b": "zdezynfekowac.",
+            "c": "umyc woda z mydlem.",
+            "d": "optukac woda."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Zgodna z algorytmem kolejnosé czynnosci podczas mycia twarzy niesamodzielnemu pacjentowi to:",
+        "answers": {
+            "a": "umycie okolicy pod nosem, oczu, czola, policzka blizszego, policzka dalszego, brody.",
+            "b": "umycie policzka blizszego, oczu, czola, policzka dalszego, brody, okolicy pod nosem.",
+            "c": "umycie oczu, czola, policzka dalszego, policzka blizszego, brody, okolicy pod nosem.",
+            "d": "umycie oczu, policzka dalszego, policzka blizszego, okolicy pod nosem, czola, brody."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W pierwszej dobie po operacji raka zoladka opiekun medyczny zaobserwowal u pacjenta bladosc powlok skornych, niepokój i przesiakniety opatrunek na skazonej ranie pooperacyjnej. W tej sytuacji opiekun powinien",
+        "answers": {
+            "a": "natychmiast zmienié opatrunek na ranie i podaé pacjentowi leki uspokajajace.",
+            "b": "natychmiast zglosié pielegniarce wystepowanie u pacjenta zaobserwowanych objawów.",
+            "c": "zglosié lekarzowi wystapienie krwawienia z rany pooperacyjnej pacjenta i na jego zlecenie zmienié opatrunek.",
+            "d": "obserwowac pacjenta przez godzine pod katem nasilania sie objawów."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Planujac scielenie tózka z lezacym w nim pacjentem z otepieniem, który ma ograniczone mozliwosci poruszania sie w obrebie tózka, opiekun medyczny powinien",
+        "answers": {
+            "a": "przed przejsciem na prawa strone lózka podniesé barierke po prawej stronie lózka.",
+            "b": "przed przejsciem na lewa strone lozka podniesé barierke po prawej stronie tózka.",
+            "c": "przed scieleniem tózka opuscié barierki po obu stronach lózka.",
+            "d": "przed scieleniem tózka podniesé barierki po obu stronach tózka."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Do toalety jamy ustnej u pacjenta nieprzytomnego ze zmianami zapalnymi na podniebieniu nalezy przygotowaé",
+        "answers": {
+            "a": "Aphtin.",
+            "b": "napar rumianku.",
+            "c": "Rivanol.",
+            "d": "wode utleniona."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Przed karmieniem przez zgtebnik zotadkowy opiekun medyczny odciagnat strzykawka 200 ml zalegajacej tresci zotadkowej. W tej sytuaci powinien",
+        "answers": {
+            "a": "podac cata zaplanowana porcje zywienia i nie podawaé wody przegotowanej.",
+            "b": "podac potowe zaplanowanej porcji zywienia i podac 50 ml wody przegotowanej.",
+            "c": "wstrzymaé sie od podania zywienia, nie podawaé wody przegotowanej i poinformowaé lekarza.",
+            "d": "wstrzymaé sie od podania zywienia, podac 50 ml wody przegotowanej i poinformowaé lekarza."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W planie opieki nad pacjentem z goraczka, który intensywnie poci sie, nalezy uwzglednié miedzy innymi:",
+        "answers": {
+            "a": "stosowanie baniek lekarskich, zwiekszenie podazy positków, obserwowanie ilosci wydalanego moczu.",
+            "b": "stosowanie baniek lekarskich, zmniejszenie podazy positków, obserwowanie ilosci wydalanego moczu.",
+            "c": "stosowanie okladów chtodzacych, zwiekszenie podaty plynów do picia, zwiekszenie czestotliwosci pomiarów temperatury ciala.",
+            "d": "stosowanie oktadow chiodzacych, zmniejszenie podazy plynów do picia, zwiekszenie czestotliwosci pomiarów temperatury ciata."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W której pozycji opiekun medyczny powinien utozyé pacjentke lezaca w drugiej dobie po zabiegu operacyjnym wszczepienia endoprotezy stawu biodrowego, u której wystepuja wymioty?",
+        "answers": {
+            "a": "Simsa.",
+            "b": "Trendelenburga.",
+            "c": "Anty-Trendelenburga.",
+            "d": "Fowlera."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "67-letnia pacjentka przebywa na oddziale wewnetrznym z powodu reumatoidalnego zapalenia stawów. Ze wzgledu na deformacje konczyn ma trudnosci z utrzymaniem tabletek w rekach i ich samodzielnym przyjmowaniem. W jaki sposób opiekun medyczny powinien pomóc pacjentce przyjac przygotowane leki?",
+        "answers": {
+            "a": "Posadzié pacjentke w pozycji pótwysokiej, podaé bezposrednio do reki kieliszek z lekami i przyjsé ponownie po 15 minutach by sprawdzié, czy leki zostaly przyjete w calosci.",
+            "b": "Podac pacjentce pelna szklanke wody z rozpuszczonymi lekami, sprawdzié, czy pacjentka wypita cata ilosé przygotowanego prynu.",
+            "c": "Posadzié pacjentke w pozycji pólwysokiej, podaé bezposrednio do reki kieliszek z lekami i poprosié o ich potkniecie.",
+            "d": "Podaé pacjentce bezposrednio do ust leki i wode do popicia, sprawdzié, czy leki zostaly przyjete w calosci."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Krzesto sanitarne u podopiecznego z niepelnosprawnoscia ruchowa opiekun medyczny powinien stosowaé w celu",
+        "answers": {
+            "a": "umozliwienia podopiecznemu wyprózniania sie.",
+            "b": "umozliwienia kapieli podopiecznego pod natryskiem.",
+            "c": "wykonywania mycia krocza podopiecznego.",
+            "d": "wykonywania mycia glowy podopiecznego nad umywalka."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "W jakiej kolejnosci opiekun medyczny powinien przygotowaé pacjenta lezacego na plasko z drzeniem zamiarowym, przystepujac do golenia zarostu twarzy?",
+        "answers": {
+            "a": "Podanie lusterka pacjentowi, posadzenie pacjenta z pochyleniem tutowia do przodu.",
+            "b": "Podanie lusterka pacjentowi, podtrzymanie gtowy pacjenta.",
+            "c": "Uniesienie wezgtowia tózka, ostoniecie torsu pacjenta.",
+            "d": "Wyjecie poduszki spod glowy pacjenta, uniesienie wezglowia tózka."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "U podopiecznego w poczatkowym stadium choroby Parkinsona pojawia sie problem",
+        "answers": {
+            "a": "z szybkim wykonywaniem ruchów.",
+            "b": "z rozpoznawaniem bliskich osób.",
+            "c": "z zapamietywaniem slów.",
+            "d": "z wyrazeniem uczué."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Który zespót objawów swiadczy o wystapieniu u pacjenta stanu odwodnienia?",
+        "answers": {
+            "a": "Szary cien wokót ust, wzmozone napiecie galek ocznych, bladosé powtok skórnych.",
+            "b": "Czerwone Sluzówki jamy ustnej, rozszerzone zrenice, zwiotczata skóra.",
+            "c": "Obtozony jezyk, zwezone zrenice, swiad skory.",
+            "d": "Suchy jezyk, zapadniete zrenice, utrata elastycznosci skóry."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Która skala uwzględnia ocenę samodzielności pacjenta w zakresie przemieszczania się z łóżka na krzesło?",
+        "answers": {
+            "a": "Barthel.",
+            "b": "Katza.",
+            "c": "Lawtona.",
+            "d": "Glasgow."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "W jaki sposób opiekun powinien wykonywać oklepywanie klatki piersiowej podopiecznego?",
+        "answers": {
+            "a": "Od kręgosłupa, ukośnie w górę, do boków klatki piersiowej.",
+            "b": "Od boków klatki piersiowej, ukośnie w dół, w kierunku kręgosłupa.",
+            "c": "Od podstawy klatki piersiowej do szczytów płuc, omijając okolice nerek i kręgosłupa.",
+            "d": "Od szczytów płuc do podstawy klatki piersiowej, omijając okolice nerek i kręgosłupa."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Poszewkę na poduszkę zabrudzoną wymiocinami pacjenta hospitalizowanego z powodu infekcji w układzie pokarmowym opiekun medyczny powinien umieścić w pojemniku",
+        "answers": {
+            "a": "z czerwonym workiem.",
+            "b": "z czarnym workiem.",
+            "c": "z niebieskim workiem.",
+            "d": "z żółtym workiem."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Na oddziale wewnętrznym przebywa pacjentka z powodu nadciśnienia tętniczego. Otrzymała leki, które obniżyły ciśnienie tętnicze krwi do wartości prawidłowych. Następnego dnia rano opiekun medyczny przed planowaną kąpielą pacjentki zmierzył jej ciśnienie, które wynosiło 180/90 mmHg. Jak powinien postąpić w tej sytuacji?",
+        "answers": {
+            "a": "Poinformować pielęgniarkę, że pacjentka ma ciśnienie w normie i wykonać zaplanowaną kąpiel.",
+            "b": "Przekazać pielęgniarce, że pacjentka ma ciśnienie wysokie i wstrzymać się od wykonania zaplanowanej kąpieli.",
+            "c": "Zapisać w dokumentacji, że pacjentka ma ciśnienie podwyższone i wykonać zaplanowaną kąpiel.",
+            "d": "Poinformować pacjentkę, że ma lekko podwyższone ciśnienie i wstrzymać się od wykonania zaplanowanej kąpieli."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Opiekun medyczny podajac pacjentowi podskórnie (s.c.) heparyne drobnoczasteczkowa powinien",
+        "answers": {
+            "a": "aspirowac przed podaniem leku i masowac skóre w miejscu podania leku.",
+            "b": "nie aspirowaé przed podaniem leku i masowaé skóre w miejscu podania leku.",
+            "c": "aspirowac przed podaniem leku i nie masowad skóry w miejscu po podaniu leku.",
+            "d": "nie aspirowaé przed podaniem leku i nie masowat skóry po podaniu leku."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Najskuteczniejszymi dzialaniami w ramach profilaktyki przeciwodlezynowej jest stosowanie",
+        "answers": {
+            "a": "diety bogatoresztkowej oraz Srodków natluszezajacych skóre.",
+            "b": "diety ubogobialkowej oraz srodkow nawilzajacych skore.",
+            "c": "diety bogatobiatkowej oraz materaca zmiennocisnieniowego.",
+            "d": "diety ubogoenergetycznej oraz materaca zmiennocisnieniowego."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Dysfagia przejawia",
+        "answers": {
+            "a": "zaburzeniami wchlaniania w jelicie cienkim, zmniejszona perystaltyka jelit, bólami w lewej czesci jamy brzusznej, wzdeciami, czesto wystepujacymi kolkami, spadkiem masy ciata, ogólnym ostabieniem.",
+            "b": "zaburzeniami w przyjmowaniu i przemieszczaniu substancji stalych oraz plynów z jamy ustnej przez caly odcinek przelyku do zoladka, slinotokiem, bólem za mostkiem, uciskiem w klatce piersiowej.",
+            "c": "trudnosciami z wydawaniem i nasladowaniem dzwieków, ze skupieniem uwagi i zapamietywaniem, problemami z zapinaniem guzików i wiazaniem sznurówek, problemami z uzywaniem sztucców.",
+            "d": "pisaniem liter bez znakow graficznych o róznej wielkosci niemieszezacych sie w linijkach, trudnosciami w zachowaniu ksztaltu liter, nieczytelnym pismem."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "W przypadku pojawienia sie u pacjenta przebywajacego w szpitalu silnego bólu gtowy opiekun medyczny powinien jak najszybciej",
+        "answers": {
+            "a": "wywietrzyé sale i zapewnié warunki umozliwiajace sen.",
+            "b": "zglosié pielegniarce wystapienie silnego bólu gtowy u pacjenta.",
+            "c": "zgtosié ordynatorowi wystapienie silnego bólu gtowy u pacjenta.",
+            "d": "podac pacjentowi srodek przeciwbólowy."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjent korzystajacy z wozka inwalidzkiego samodzielnie przesiada sie z tózka na wózek przy pomocy maty slizgowej. W celu zapewnienia bezpiecznego i sprawnego wykonania tej czynnosci opiekun medyczny wspomagajacy pacjenta powinien dopilnowac, aby",
+        "answers": {
+            "a": "mata slizgowa lezata tylko na wozku.",
+            "b": "wózek stal bokiem jak najblizej tozka.",
+            "c": "mata slizgowa lezata tylko na tozku.",
+            "d": "wózek staf przodem naprzeciwko lózka."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "U chodzacej podopiecznej wystepuje lekki stopien nietrzymania moczu. W celu zabezpieczenia skóry, bielizny i zapewnienia komfortu psychicznego w ciagu dnia opiekun medyczny powinien zalecié podopiecznej stosowanie",
+        "answers": {
+            "a": "podpasek higienicznych.",
+            "b": "wkladek urologicznych.",
+            "c": "pieluchomajtek.",
+            "d": "ligniny."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Jak czesto powinna byc wykonywana toaleta okolicy krocza lezacemu w tozku podopiecznemu stosujacemu pieluchomajtki?",
+        "answers": {
+            "a": "Przynajmniej raz na trzy godziny w ciagu dnia.",
+            "b": "Codziennie podezas toalety porannej.",
+            "c": "Podczas kazdej wymiany pieluchomajtek.",
+            "d": "Codziennie podczas toalety wieczornej."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Ktôry zespot objawow moze swiadczyé o wystepowaniu u pacjenta cukrzycy?",
+        "answers": {
+            "a": "Brak apetytu, bezsennosé, wzmozona potliwosé rak i stóp, bóle gtowy, rozdraznienie.",
+            "b": "Zaburzenia koncentracji, kolatanie serca, zawroty glowy, dusznosé, bladosc powtok skórnych.",
+            "c": "Suchosé blon sluzowych, sennosó, stale uczucie zmeczenia, czeste oddawanie moczu, duze pragnienie.",
+            "d": "Sennosc, zwiekszone pragnienie, nudnosci, wymioty, suchosc skóry i bton sluzowych."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Pacjentka po operacji jamy brzusznej ma trudnosci z podniesieniem sie z pozycji lezacej. Który sprzet utatwi pacjentce siadanie w tózku?",
+        "answers": {
+            "a": "Podporka pod nogi.",
+            "b": "Drabinka przytózkowa.",
+            "c": "Podkiad slizgowy.",
+            "d": "Pas transferowy."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "U hospitalizowanego pacjenta cierpiacego na przewlekla obturacyina chorobe pluc po 10 minutach po zaaplikowaniu leków z uzyciem nebulizatora wystapito zaczerwienienie twarzy, uczucie goraca i wzmozona potliwosc. W tej sytuacjl opiekun medyczny powinien",
+        "answers": {
+            "a": "jak najszybciej zawiadomié ordynatora oddziatu.",
+            "b": "Jak najszybciej zawiadomié pielegniarke dyzurna.",
+            "c": "utozyé pacjenta w pozycji bezpiecznej:",
+            "d": "zapewnié pacjentowi dostep swiezego powietrza."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjent, po diuzszym okresie lezenia w tózku otrzymal zalecenie do wstawania z lózka i chodzenia. Podczas jego pionizacii bezposrednio po etapie unoszenia glowy opiekun medyczny powinien",
+        "answers": {
+            "a": "posadzic pacjenta na tózku z opuszczonymi nogami.",
+            "b": "pomóc pacjentowi stanac obok lozka.",
+            "c": "przesadzié pacjenta na wozek.",
+            "d": "posadzic pacjenta w lozku."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "67-letni pacjent oddziatu internistycznego zglasza uczucie ciezkosci nóg, bóle o róznym nasileniu, kurcze miesni konczyn dolnych i swedzenie skóry. Które dzialania w pierwszej kolejnosci powinien wykonac opiekun. medyczny?",
+        "answers": {
+            "a": "Obejrzec konczyny dolne pacjenta pod katem obrzeku i zaczerwienienia skóry, zastosowac wyzsze ich ufozenie.",
+            "b": "Obejrzeé konczyny dolne pacjenta pod katem obrzeku i otaré naskórka, zastosowaé nizsze ich utozenie.",
+            "c": "Nattuscié i wymasowaé konczyny dolne pacjenta, zastosowad wyzsze ich utozenie.",
+            "d": "Nawilzyé i wymasowac konczyny dolne pacjenta, zastosowaé nizsze ich utozenie."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Na zlecenie lekarskie opiekun medyczny pobral pacjentce krew na morfologie krwi obwodowej i poziom zelaza. Przygotowat pacjentke - zdezynfekowat miejsce wklucia i zatozyt opaske uciskowa Jaki blad popeinit opiekun medyezny w przedstawionym fragmencie procedury?",
+        "answers": {
+            "a": "W niewtasciwym momencie zwolnit opaske uciskowa z konczyny görnej pacjentki.",
+            "b": "Wykonywat nieprawidlowe ruchy reki podczas mieszania krwi w probowkach.",
+            "c": "W niewtasciwej kolejnosci napelnial probówki krwia.",
+            "d": "Za wysoko zalozyt opaske uciskowa na konczynie górnej pacjentki."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjentowi chorujacemu na cukrzyce typu 2, zaleca sie stosowanie diety bogatej w bionnik, którego dziatanie polega na",
+        "answers": {
+            "a": "zmniejszaniu wehlaniania cukru i przyspieszaniu wchlanianla tluszczow.",
+            "b": "przyspieszaniu wchtaniania cukru i tluszczów.",
+            "c": "przyspieszaniu wchlaniania cukru i zmnie/szaniu wchtaniania tluszczów.",
+            "d": "zmniejszaniu wchlaniania cukru I tluszczów."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Opiekun medyczny planujac wykonanie toalety porannej u osoby z niepeinosprawnoscia ruchowa powinien w pierwszej kolejnosci",
+        "answers": {
+            "a": "skompletowac zestaw przyborów do mycia i zawiezé pacjenta do tazienki.",
+            "b": "ocenié mozliwosci pacjenta i podjac decyzje o miejscu wykonania toalety.",
+            "c": "przygotowac balkonik umozliwiajacy pacjentowi przejscie do fazienki.",
+            "d": "sprawdzié stopien niepelnosprawnosci pacjenta w dokumentacji lekarskiej."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Fizjologicznym nastepstwem procesu starzenia sie organizmu ludzkiego jest",
+        "answers": {
+            "a": "przyspieszenie perystaltykl jelit.",
+            "b": "utrata wrazliwosci receptorow skórnych.",
+            "c": "przyspieszenie podstawowej przemiany materii:",
+            "d": "utrata masy miesniowej."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Dwa miesiace temu 75-letnia podopieczna przebyta zabieg wszczepienia endoprotezy stawu biodrowego. Zachecajac podopieczna do samoopieki opiekun medyczny powinien",
+        "answers": {
+            "a": "sugerowa jej przemieszezanie sie wytacznie na wózku inwalidzkim ze wzgledu na bezpieczenstwo.",
+            "b": "sugerowac jej opuszczanie tózka i poruszanie sie z pomoca balkonika na kólkach.",
+            "c": "motywowaé ja do opuszczania tózka i poruszania sie z pomoca kul lokciowych.",
+            "d": "motywowac ja do poruszania sie bez pomocy sprzetu ortopedycznego w celu uzyskania samodzielnosci."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "W celu utatwienia adaptacji pacjentce nowoprzyjetej do szpitala, opiekun medyczny w pierwszej kolejnosci powinien",
+        "answers": {
+            "a": "zagospodarowaé czas wolny pacjentki, proponujac zajecia zgodne z jej zainteresowaniami.",
+            "b": "przedstawié jadtospis, przyniesé ulubione przedmioty pacjentki.",
+            "c": "zapoznad ja z topografia oddzialu, wskazaé osoby do których moze sie zglosié po pomoc.",
+            "d": "pomóc jej w rozpakowaniu sie, pomóc jej w czynnosciach higienicznych."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Do którego z wymienionych zabiegów opiekun medyczny bedacy wlascicielem firmy swiadczacej usługi opiekuncze w srodowisku domowym moze skierowac zatrudnionych w niej opiekunów medycznych?",
+        "answers": {
+            "a": "Do podawania insuliny.",
+            "b": "Do płukania ucha.",
+            "c": "Do cewnikowania pęcherza moczowego.",
+            "d": "Do podłączenia kroplówki dożylnej."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Pacjentkę hospitalizowaną z powodu zapalenia płuc, w czasie występowania dużej duszności, opiekun medyczny powinien ułożyć w pozycji",
+        "answers": {
+            "a": "z uniesieniem górnej części tułowia do 30°.",
+            "b": "bezpiecznej na boku Simsa.",
+            "c": "Trendelenburga.",
+            "d": "wysokiej z pochyleniem do przodu."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Długotrwałe unieruchomienie pacjenta w łóżku prowadzi do zaburzeń w postaci",
+        "answers": {
+            "a": "zaniku mięśni i zmniejszonej perystaltyki jelit.",
+            "b": "zmniejszenia lepkości krwi i zwiększenia gęstości kości.",
+            "c": "zwiększenia masy ciała i podwyższenia temperatury.",
+            "d": "zaniku mięśni i wzmożonej perystaltyki jelit."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Na zlecenie lekarskie opiekun medyczny wykonuje pacjentowi inhalacje z soli fizjologicznej. Jaki blad popelnil opiekun medyczny?",
+        "answers": {
+            "a": "W nieprawidlowy sposób zabezpieczyl posciel.",
+            "b": "Nieprawidlowo zalozyl pacjentowi maske do inhalacji.",
+            "c": "Inhalator umiescil w zbyt malej odleglosci od pacjenta.",
+            "d": "W niewlasciwym czasie wlal sól fizjologiczna do nebulizatora."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "W przypadku wykonywania okladu wysychajacego (zimnego) opiekun medyczny powinien zamoczyc gaziki",
+        "answers": {
+            "a": "w wodzie o temperaturze pokojowej i skropic 70% alkoholem etylowym.",
+            "b": "w wodzie o temperaturze pokojowej i skropic 40% alkoholem etylowym.",
+            "c": "w roztworze 1:1 wody o temperaturze pokojowej z 40% alkoholem etylowym.",
+            "d": "w roztworze 1:1 wody o temperaturze pokojowej z 70% alkoholem etylowym."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "W trakcie wykonywania odsluzowywania dróg oddechowych pacjenta z zalozona rurka tracheostomijna nalezy:",
+        "answers": {
+            "a": "wprowadzac cewnik przy zamknietym ssaniu, odsysac wydzieline ruchem do przodu i tylu przez 20-30 sekund.",
+            "b": "wprowadzac cewnik przy czynnym ssaniu, odsysac wydzieline ruchem obrotowym przez 20-30 sekund.",
+            "c": "wprowadzac cewnik przy zamknietym ssaniu, odsysac wydzieline ruchem obrotowym przez 10-15 sekund.",
+            "d": "wprowadzac cewnik przy czynnym ssaniu, odsysac wydzieline ruchem do przodu i tylu przez 10-15 sekund."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Który przyrzad ulatwiajacy wykonywanie czynnosci samoobslugowych nalezy zaproponowac podopiecznemu z zesztywniajacym zapaleniem stawow kregoslupa?",
+        "answers": {
+            "a": "Do zasuwania suwakow w odziezy.",
+            "b": "Do zakladania skarpet.",
+            "c": "Ulatwiajacy przeciaganie guzikow w ubraniach.",
+            "d": "Z krotka raczka do zakladania butów."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pielegnacja przeciwodlezynowa pacjenta z paraplegia, powinna polegac na eliminowaniu ucisku w okolicy zagrozonej oraz",
+        "answers": {
+            "a": "myciu skóry letnia woda z mydlem o pH 4,5, energicznym osuszaniu i smarowaniu skóry wazelina.",
+            "b": "myciu skóry ciepla woda z mydlem o pH 4,5, delikatnym osuszaniu, smarowaniu skóry wazelina i posypywaniu talkiem.",
+            "c": "myciu skóry ciepla woda z mydlem o pH 5,5, delikatnym osuszaniu i nacieraniu skóry oliwka.",
+            "d": "myciu skóry chlodna woda z mydlem o pH 5,5, energicznym osuszaniu, nacieraniu skóry oliwka i posypywaniu talkiem."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "Nykturia objawia sie",
+        "answers": {
+            "a": "czestym oddawaniem moczu w nocy.",
+            "b": "skapomoczem.",
+            "c": "czestym oddawaniem moczu w dzien.",
+            "d": "bezmoczem."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Opiekunowi medycznemu zlecono pobranie wymazu z oka na badanie bakteriologiczne u pacjenta, u którego wystepuje ropna wydzielina. Materiat diagnostyczny opiekun medyczny powinien pobrac od pacjenta",
+        "answers": {
+            "a": "wieczorem, bez przeplukania i zakroplenia pacjentowi oczu.",
+            "b": "wieczorem, bezposrednio po przeplukaniu i zakropleniu pacjentowi oczu.",
+            "c": "rano po umyciu i zakropleniu pacjentowi oczu.",
+            "d": "rano bez przemywania i zakraplania pacjentowi oczu."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Która czynnosé powinien przede wszystkim wykonaé opiekun udzielajacy pierwszej pomocy podopiecznemu podczas napadu drgawek?",
+        "answers": {
+            "a": "Ochraniaé glowe podopiecznego przed urazami.",
+            "b": "Przytrzymywaé cialo podopiecznego ograniczajac drgawki.",
+            "c": "Podac podopiecznemu wode do picia.",
+            "d": "Wtozyé drewniana szpatutke miedzy zeby podopiecznego."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Podezas przyjecia pacjentki do szpitala jej wskaznik BMI wynosil 31. Z pomiaru wynika, ze u kobiety wystepuje",
+        "answers": {
+            "a": "prawidtowa masa ciata.",
+            "b": "otylosé.",
+            "c": "nadwaga.",
+            "d": "wychudzenie organizmu."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Sprzet jednorazowego uzytku o ostrych koncach lub krawedziach po uzyciu nalezy umiescic",
+        "answers": {
+            "a": "w sztywnych czerwonych pojemnikach.",
+            "b": "w grubych workach koloru zoltego.",
+            "c": "w metalowych pojemnikach wielorazowego uzycia.",
+            "d": "w grubych workach koloru czerwonego umieszczonych na stelazach."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "W jaki sposób nalezy udzielié pierwszej pomocy osobie, która oparzyla reke wrzatkiem?",
+        "answers": {
+            "a": "Natozyé na oparzona reke kompres z Altacetu.",
+            "b": "Chtodzié oparzona reke zimna woda.",
+            "c": "Posmarowaé oparzona reke tluszezem.",
+            "d": "Polac oparzona reke woda utleniona."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjent ma zlecone pobranie wymazu z gardta. Zgodnie z algorytmem, wymaz nalezy pobrac z tylnej sciany gardta, a nastepnie kolejno",
+        "answers": {
+            "a": "z jezyka, z migdalkow.",
+            "b": "z podniebienia, z migdalków.",
+            "c": "z jezyka, z podniebienia.",
+            "d": "z migdalków, z podniebienia."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Ktore dolegliwosci wystepujace u pacjenta podczas monitorowania bilansu plynów nalezy zanotowac w karcie bilansu plynów?",
+        "answers": {
+            "a": "Ostabienie, sennosc, apatie.",
+            "b": "Dusznosé, trudnosci z oddychaniem, przyspieszone tetno.",
+            "c": "Rozdraznienie, wzmozona aktywnosé, placzliwosc.",
+            "d": "Nadmierna potliwosé, biegunke, wymioty."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Pacjentowi, u którego rozpoznano chorobe wrzodowa zotadka, zalecono stosowanie diety lekkostrawnej. Który zestaw produktów spozywczych nalezy miedzy innymi zalecic pacjentowi?",
+        "answers": {
+            "a": "Pieczywo mieszane, jogurt naturalny, fasole, ryby, tiuszcze zwierzece.",
+            "b": "Pieczywo pszenne, jogurt naturalny, ziemniaki gotowane, drób, tluszcze roslinne.",
+            "c": "Pieczywo zytnie, jogurt owocowy, pomidory, wieprzowine, tluszeze roslinne.",
+            "d": "Pieczywo razowe, jogurt owocowy, soje, wotowine, tluszcze zwierzece."
+        },
+        "correct": "b"
+    },
+    {
+        "question": "Pacjentce z incydentalnym nietrzymaniem moczu opiekun medyczny powinien zaproponowad uzywanie",
+        "answers": {
+            "a": "wktadek urologicznych.",
+            "b": "majtek chtonnych.",
+            "c": "pieluch anatomicznych.",
+            "d": "podkladu chtonnego."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Na zamknietym worku z odpadami medycznymi zakaznymi nalezy umiescié informacje dotyczaca",
+        "answers": {
+            "a": "miejsca przechowywania, kodu odpadów i danych osoby zamykajacej worek.",
+            "b": "miejsca powstania odpadów i danych osoby zamykajacej worek.",
+            "c": "kodu odpadów, miejsca ich pochodzenia i daty zamkniecia worka.",
+            "d": "rodzaju odpadow i miejsca ich przechowywania."
+        },
+        "correct": "c"
+    },
+    {
+        "question": "U pacjenta z udarem niedokrwiennym mózgu wystepuje afazja. Pacjent wypowiada sie sylabami i pojedynczymi wyrazami. Podczas rozmowy z pacjentem opiekun medyczny powinien",
+        "answers": {
+            "a": "unikac komunikacji niewerbalnej.",
+            "b": "uzywac dlugich rozbudowanych zdan.",
+            "c": "konczyé za pacjenta wypowiedz.",
+            "d": "uzywac krótkich, prostych zdan."
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Wózek zabiegowy po wykonanej toalecie ciala pacjenta opiekun medyczny powinien",
+        "answers": {
+            "a": "zdezynfekowac srodkiem do dezynfekcji powierzchni I sprzetu.",
+            "b": "zdezynfekowaé roztworem srodka do dezynfekcji narzedzi.",
+            "c": "umyé woda z detergentem.",
+            "d": "umyé pod biezaca woda."
+        },
+        "correct": "a"
+    },
+    {
+        "question": "Podstawowa skala kwalifikujaca pacjenta do opieki dtugoterminowej jest skala",
+        "answers": {
+            "a": "Norton.",
+            "b": "Katza.",
+            "c": "Lawtona.",
+            "d": "Barthel."
+        },
+        "correct": "d"
+    }
+]
