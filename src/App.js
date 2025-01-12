@@ -4,12 +4,14 @@ import { Button, Typography, Grid, Paper } from '@mui/material';
 import db from './db.json';
 
 function App() {
+  const [questions, setQuestions] = useState([]);
   const [randomElement, setRandomElement] = useState(null);
   const [showCorrect, setShowCorrect] = useState(false);
 
   const handleNextQuestion = () => {
-    const randomIndex = Math.floor(Math.random() * db.length);
-    setRandomElement(db[randomIndex]);
+    const randomIndex = Math.floor(Math.random() * questions.length);
+    setRandomElement(questions[randomIndex]);
+    setQuestions(prevQuestions => prevQuestions.filter((_, index) => index !== randomIndex));
     setShowCorrect(false);
   };
 
@@ -18,8 +20,7 @@ function App() {
   };
 
   useEffect(() => {
-    handleNextQuestion();
-
+    setQuestions(db);
   }, []);
 
   const mappedAnswers = useMemo(() => {
@@ -37,15 +38,16 @@ function App() {
   return (
       <div className="App">
         <header className="App-header">
-          <Typography variant="h4" gutterBottom>
-            {randomElement ? randomElement.question : 'Loading...'}
+        <Typography variant="p" style={{position: 'fixed', top: '5px', right: '5px', color: 'red'}} > Pozostało: {questions.length} </Typography>
+          <Typography variant="h6" gutterBottom>
+            {randomElement ? randomElement.question : questions.length > 0 ? '': 'GAME OVER'}
           </Typography>
           <Grid container spacing={2}>
             {mappedAnswers}
           </Grid>
           <div style={{ marginTop: '20px' }}>
             <Button variant="contained" color="primary" onClick={handleNextQuestion}>
-              Next Question
+              Następne
             </Button>
             <Button
               variant="contained"
@@ -53,7 +55,7 @@ function App() {
               onClick={handleShowCorrect}
               style={{ marginLeft: '10px' }}
             >
-              Show Correct
+              odpowiedź
             </Button>
           </div>
         </header>
